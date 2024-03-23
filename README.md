@@ -1,6 +1,7 @@
 # DEATHNOTE-1-VulnHub
 Level - easy  Description : don't waste too much time thinking outside the box . It is a Straight forward box .  This works better with VirtualBox rather than VMware
 
+<p>netdiscover -u eth0</p>
 
 ![Screenshot 2024-03-22 194002](https://github.com/Gheris-579/DEATHNOTE-1-VulnHub/assets/103877241/bd50c87b-ee50-4f1d-bd85-d3d282cf0704)
 
